@@ -181,7 +181,7 @@ ext.lua.auto.reload=1
 #ext.lua.reset=1
 
 # Indentation
-tabsize=4
+tabsize=2
 #indent.size=4
 use.tabs=0
 #indent.auto=1
