@@ -19,7 +19,7 @@ function.scanner.modules=1
 # properties for c/cpp files
 syntax.colouring.cpp=1
 use.tab.cpp=1
-tabsize.cpp=4
+tabsize.cpp=2
 line.margin.visible.cpp=1
 fold.cpp=1
 monospaced.font.cpp=1
@@ -27,13 +27,13 @@ monospaced.font.cpp=1
 # properties for asm files
 syntax.colouring.asm=1
 use.tab.asm=1
-tabsize.asm=4
+tabsize.asm=2
 line.margin.visible.asm=1
 monospaced.font.asm=1
 
 # properties for other files
 use.tabs=1
-tabsize=4
+tabsize=2
 line.margin.visible.txt=1
 monospaced.font.txt=1
 
